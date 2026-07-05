@@ -53,4 +53,4 @@ LangChain, LangGraph, OpenAI, Claude, Bedrock, Grafana.
 
 - Portfolio: [mrw-soumik.github.io](https://mrw-soumik.github.io/)
 - LinkedIn: [mostafa-wasib](https://www.linkedin.com/in/mostafa-wasib/)
-- Email: [mostafa.soumik73@gmail.com](mailto:mostafa.soumik73@gmail.com)
+- Email: [mostafa.wasib73@gmail.com](mailto:mostafa.wasib73@gmail.com)
