@@ -16,11 +16,17 @@ can be tested, explained, monitored, and handed off responsibly.
 - Recommendation and personalization systems with vector search and behavioral signals
 - Computer vision, scene understanding, OCR, and accessibility-focused AI workflows
 - MLOps, cloud deployment, CI/CD, monitoring, and production-readiness documentation
+- Client-facing business analysis and delivery: requirements clarification,
+  technical task breakdown, workflow documentation, testing support, KPI
+  reporting, and stakeholder communication
 
 ## Selected Public Work
 
 - [Portfolio](https://mrw-soumik.github.io/) - professional AI/ML portfolio,
   CV, case studies, and project map
+- [Vibe Coding, Engineered (MVPFlow AI)](https://github.com/mrw-soumik/vibe-coding-engineered)
+  - spec-driven, AI-assisted MVP workflow for founders with a tested FastAPI
+  codebase, CI, and a 2-hour hands-on workshop
 - [Gas Sensor Classification and Anomaly Detection](https://github.com/mrw-soumik/Gas-Sensor-Data-Classification-and-Anomaly-Detection)
   - sensor classification and anomaly detection workflow
 - [Multimodal Emotion Recognition](https://github.com/mrw-soumik/Multimodal-Emotion-Recognition-System)
