@@ -1,56 +1,32 @@
 # Mostafa Rafiur Wasib
 
-AI/ML Engineer focused on practical RAG systems, evidence extraction workflows,
-recommendation engines, computer vision, tabular ML, and production-ready data
-products.
+**AI Project Lead and AI Engineer** in St. John's, Newfoundland and Labrador, Canada.
 
-I work across applied AI engineering and client-facing delivery: turning messy
-documents, sensor data, visual inputs, and business workflows into systems that
-can be tested, explained, monitored, and handed off responsibly.
+I turn business problems into working AI and data systems, from the first requirements conversation to a tested, documented handover. I lead client AI projects at Genesis AI Garage and stay hands-on in Python, retrieval-augmented generation (RAG), machine learning, Power BI and the cloud.
 
-## Current Focus
+[Portfolio](https://mrw-soumik.github.io) · [LinkedIn](https://www.linkedin.com/in/mostafa-wasib/) · [Email](mailto:mostafa.wasib73@gmail.com) · [Résumé (PDF)](https://mrw-soumik.github.io/assets/Mostafa_Rafiur_Wasib_General_Technical_CV.pdf)
 
-- LLM and RAG systems with retrieval, ranking, structured outputs, and
-  source-grounded responses
-- Evidence extraction from PDFs, spreadsheets, scans, and document-heavy workflows
-- Recommendation and personalization systems with vector search and behavioral signals
-- Computer vision, scene understanding, OCR, and accessibility-focused AI workflows
-- MLOps, cloud deployment, CI/CD, monitoring, and production-readiness documentation
-- Client-facing business analysis and delivery: requirements clarification,
-  technical task breakdown, workflow documentation, testing support, KPI
-  reporting, and stakeholder communication
+## Featured projects
 
-## Selected Public Work
+| Project | What it shows |
+|---|---|
+| [St. John's Council Minutes Assistant](https://github.com/mrw-soumik/stjohns-council-minutes-rag) ([demo](https://mrw-soumik.github.io/stjohns-council-minutes-rag/)) | RAG over public council minutes: hybrid search (correct source in the top five for 95% of test questions), cited answers from a local open model, and evaluation in CI |
+| [Business analysis case study](https://github.com/mrw-soumik/business-analysis-council-minutes-search) | Business requirements, BPMN 2.0 process maps, 26 user stories, 30 UAT test cases and full traceability for the app above |
+| [St. John's economy and housing dashboard](https://github.com/mrw-soumik/stjohns-economy-powerbi) ([web version](https://mrw-soumik.github.io/stjohns-economy-powerbi/)) | Power BI star schema with 53 DAX measures over 61 Statistics Canada series |
+| [Vibe Coding, Engineered (MVPFlow AI)](https://github.com/mrw-soumik/vibe-coding-engineered) | Spec-driven, AI-assisted MVP workflow and two-hour workshop: FastAPI, 41 tests, CI |
+| [Multimodal emotion recognition](https://github.com/mrw-soumik/Multimodal-Emotion-Recognition-System) | Team project: Vision Transformer face model and BiLSTM voice model with rule-based fusion |
 
-- [Portfolio](https://mrw-soumik.github.io/) - professional AI/ML portfolio,
-  CV, case studies, and project map
-- [Vibe Coding, Engineered (MVPFlow AI)](https://github.com/mrw-soumik/vibe-coding-engineered)
-  - spec-driven, AI-assisted MVP workflow for founders with a tested FastAPI
-  codebase, CI, and a 2-hour hands-on workshop
-- [Gas Sensor Classification and Anomaly Detection](https://github.com/mrw-soumik/Gas-Sensor-Data-Classification-and-Anomaly-Detection)
-  - sensor classification and anomaly detection workflow
-- [Multimodal Emotion Recognition](https://github.com/mrw-soumik/Multimodal-Emotion-Recognition-System)
-  - facial and audio emotion-recognition system
-- [Fungal Habitat Prediction](https://github.com/mrw-soumik/Fungal-Habitat-Prediction-Using-Taxonomy-Data)
-  - tabular ML for ecological habitat prediction
-- [DNA Sequence Classification](https://github.com/mrw-soumik/DNA-Sequence-Classification-with-Data-Encoding)
-  - bioinformatics ML with sequence encodings
+## What I work on
 
-## Private And Client Work
+- **Business and systems analysis:** requirements, current- and future-state process maps, user stories, UAT plans and traceability.
+- **AI engineering:** RAG and LLM applications, machine learning for forecasting and anomaly detection, Python and FastAPI services, and evaluation before release.
+- **Data and BI:** SQL, data modelling and Power BI reporting.
+- **Delivery leadership:** leading client projects from discovery and feasibility to handover.
 
-Some recent work involves proprietary client data, private deployment details, or
-production code that cannot be shared publicly. I describe that work through
-professional public case studies in my portfolio without exposing private data,
-credentials, source code, or client-specific implementation details.
+## Client work
 
-## Core Stack
+Most of my professional work is under NDA. Short, approved summaries are on my [portfolio](https://mrw-soumik.github.io/#client-work).
 
-Python, SQL, TypeScript, FastAPI, Next.js, Docker, GitHub Actions, AWS, Azure,
-Terraform, PostgreSQL, pgvector, Supabase, scikit-learn, TensorFlow, PyTorch,
-LangChain, LangGraph, OpenAI, Claude, Bedrock, Grafana.
+## Tools
 
-## Links
-
-- Portfolio: [mrw-soumik.github.io](https://mrw-soumik.github.io/)
-- LinkedIn: [mostafa-wasib](https://www.linkedin.com/in/mostafa-wasib/)
-- Email: [mostafa.wasib73@gmail.com](mailto:mostafa.wasib73@gmail.com)
+Python · SQL · TypeScript · FastAPI · Next.js · Supabase · PostgreSQL and pgvector · LangGraph · Claude · OpenAI · AWS (CDK, Lambda, Bedrock) · Azure · Terraform · Docker · GitHub Actions · Power BI · Tableau
