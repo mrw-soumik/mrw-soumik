@@ -13,6 +13,7 @@ I turn business problems into working AI and data systems, from the first requir
 | [St. John's Council Minutes Assistant](https://github.com/mrw-soumik/stjohns-council-minutes-rag) ([demo](https://mrw-soumik.github.io/stjohns-council-minutes-rag/)) | RAG over public council minutes: hybrid search (correct source in the top five for 95% of test questions), cited answers from a local open model, and evaluation in CI |
 | [Business analysis case study](https://github.com/mrw-soumik/business-analysis-council-minutes-search) | Business requirements, BPMN 2.0 process maps, 26 user stories, 30 UAT test cases and full traceability for the app above |
 | [St. John's economy and housing dashboard](https://github.com/mrw-soumik/stjohns-economy-powerbi) ([web version](https://mrw-soumik.github.io/stjohns-economy-powerbi/)) | Power BI star schema with 53 DAX measures over 61 Statistics Canada series |
+| [WakeWise NL](https://github.com/mrw-soumik/wakewise-nl) | Qiskit Fall Fest 2026: wind-turbine siting as a QUBO solved with QAOA, checked against exact answers on 19 years of real N.L. wind and on IBM quantum hardware up to 24 qubits |
 | [Vibe Coding, Engineered (MVPFlow AI)](https://github.com/mrw-soumik/vibe-coding-engineered) | Spec-driven, AI-assisted MVP workflow and two-hour workshop: FastAPI, 41 tests, CI |
 | [Multimodal emotion recognition](https://github.com/mrw-soumik/Multimodal-Emotion-Recognition-System) | Team project: Vision Transformer face model and BiLSTM voice model with rule-based fusion |
 
