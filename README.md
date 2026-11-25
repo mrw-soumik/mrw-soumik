@@ -1,6 +1,6 @@
 # Mostafa Rafiur Wasib
 
-**AI Project Lead and AI Developer** in St. John's, Newfoundland and Labrador, Canada.
+**AI Project Lead and AI Project Engineer** in St. John's, Newfoundland and Labrador, Canada.
 
 I turn business problems into working AI and data systems, from the first requirements conversation to a tested, documented handover. I lead client AI projects at Genesis AI Garage and stay hands-on in Python, retrieval-augmented generation (RAG), machine learning, Power BI and the cloud.
 
