@@ -15,6 +15,7 @@ I turn business problems into working AI and data systems, from the first requir
 | [St. John's economy and housing dashboard](https://github.com/mrw-soumik/stjohns-economy-powerbi) ([web version](https://mrw-soumik.github.io/stjohns-economy-powerbi/)) | Power BI star schema with 53 DAX measures over 61 Statistics Canada series |
 | [WakeWise NL](https://github.com/mrw-soumik/wakewise-nl) | Qiskit Fall Fest 2026: wind-turbine siting as a QUBO solved with QAOA, checked against exact answers on 19 years of real N.L. wind and on IBM quantum hardware up to 24 qubits |
 | [Vibe Coding, Engineered (MVPFlow AI)](https://github.com/mrw-soumik/vibe-coding-engineered) | Spec-driven, AI-assisted MVP workflow and two-hour workshop: FastAPI, 41 tests, CI |
+| [Logbook Subsea](https://github.com/mrw-soumik/logbook-subsea) ([video](https://github.com/mrw-soumik/logbook-subsea/blob/main/docs/video/logbook_subsea_2min.mp4)) | Underwater pipeline inspection on public survey data: pipe segmentation on camera (mean IoU 0.84), side-scan sonar detection tested on unseen surveys (90%+ balanced accuracy), and a review screen where a person approves every logged event |
 | [Multimodal emotion recognition](https://github.com/mrw-soumik/Multimodal-Emotion-Recognition-System) | Team project: Vision Transformer face model and BiLSTM voice model with rule-based fusion |
 
 ## What I work on
